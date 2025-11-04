@@ -12,3 +12,15 @@ The agent learns to capture food and defend territory using **Q-Learning** with 
 ## Run (when files are added)
 ```bash
 python capture.py -r myTeam.py -b staffTeam.py -n 10
+
+
+## 🖼️ Demo Result
+Example test run on map RANDOM17:
+
+Red team wins by 12 points.
+Red team wins by 4 points.
+Red team wins by 12 points.
+Red team wins by 12 points.
+Red team wins by 1 point.
+Average Score: +8.2
+Red Win Rate: 5/5 (100%)
